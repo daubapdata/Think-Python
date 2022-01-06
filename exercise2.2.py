@@ -11,3 +11,4 @@ breakfast_sec= (breakfast_min-int(breakfast_min))*60
 print ('breakfast_hr', int(breakfast_hr) )
 print ('breakfast_min', int (breakfast_min) )
 print ('breakfast_sec', int (breakfast_sec) )
+#thanks

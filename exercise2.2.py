@@ -1,3 +1,6 @@
+#Exercise 2.2
+#If I leave my house at 6:52 am and run 1 mile at an easy pace (8:15 per mile), then 3 miles at tempo (7:12 per mile) and 1 mile at easy pace again, what time do I get home for breakfast?
+print ('Exercise 2.2')
 start_time_hr = 6 + 52 / 60.0
 easy_pace_hr = (8 + 15 / 60.0 ) / 60.0
 tempo_pace_hr = (7 + 12 / 60.0) / 60.0
